@@ -5,7 +5,7 @@ For the last six years, I've been working in the fields of Technical Writing, Co
 
 The following are a few details about me.
 
-✍ I love the process of writing to find the simplest and most effective way to convey information in words.
+✍ I love the process of writing to find the simplest and most effective way to turn information into words.
 
 🌱 I love learning and research. I'm currently brushing up my skills in API documentation and knowledge management principles.
 
