@@ -1,7 +1,7 @@
 ## Welcome 👋
 Hi! My name is Shounak, and I'm a Technical Writer. 
 
-For the last six plus years, I've gathered work experience in Technical Writing, Content Design, and Product Support. Through my education and work, I've picked up skills in researching, information mapping, writing, quality testing, and editing technical information into user-friendly content.
+For the last six plus years, I've been working in the fields of Technical Writing, Content Design, and Product Support. Through my education and work, I've picked up skills in researching, information mapping, writing, quality testing, and editing technical information into user-friendly content.
 
 The following are a few details about me.
 
