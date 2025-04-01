@@ -7,6 +7,6 @@ The following are a few details about me.
 
 ✍ I love the process of writing to find the simplest and most effective way to turn information into words. You can check out my [Technical Writing Portfolio](https://github.com/shounakgly/technical-writing-portfolio#technical-writing-portfolio) to see my writing and content samples.
 
-🌱 I enjoy learning and growing my skills. I'm currently brushing up my skills in API documentation and refreshing my knowledge in Instructional Design.
+🌱 I enjoy learning and growing my skillset. I'm currently brushing up my skills in API documentation and refreshing my knowledge in Instructional Design.
 
 📹 Prior to becoming a Technical Writer, I was a media professional. You can check out my [demo reel](https://vimeo.com/176694314) to see my videography and editing skills. I still put some of my media skills to use in turning complex documentation into easy-to-follow videos and tutorials to help evangelize and troubleshoot products.
